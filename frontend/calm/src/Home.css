@@ -1,0 +1,18 @@
+.homeBody {
+  min-height: 100vh;
+  text-align: center;
+}
+main {
+  text-align: center;
+  padding: 20% 0% 60% 0%;
+  button {
+    margin-top: 20px;
+    font-size: 2rem;
+    padding: 10% 10%;
+    cursor: pointer;
+    background-color: rgba(0, 128, 0, 0.842);
+    border: none;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.883);
+  }
+}
